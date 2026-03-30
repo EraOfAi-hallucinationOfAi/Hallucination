@@ -1,0 +1,1 @@
+FROM ./patronus-lynx-8b-instruct-q4_k_m.gguf
